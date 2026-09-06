@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Alikhan 👋
 
-<!--
-**Alihansagat/Alihansagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student at KBTU  
+💻 Interested in Software Engineering, Backend Development & AI/ML
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Information Systems at KBTU
+- 💻 Working with Python, C++, Java and SQL
+- 🌐 Learning Backend Development with Django
+- 🤖 Studying Machine Learning and Deep Learning
+- 🛠️ Building projects to improve my practical skills
+- 📚 Currently focusing on Python, Backend Development and AI/ML
+
+## 🧰 Tech Stack
+
+### Languages
+Python • C++ • Java • SQL
+
+### Backend
+Django • REST APIs
+
+### Frontend
+HTML • CSS • JavaScript • Angular
+
+### Data & AI
+NumPy • Pandas • Matplotlib • Scikit-learn
+
+### Tools
+Git • GitHub • VS Code • PyCharm
+
+## 📌 Featured Projects
+
+🚧 Currently improving my projects and building my portfolio.
+
+## 🎯 2026 Goals
+
+- Become a strong Python developer
+- Master Backend Development
+- Build production-level projects
+- Learn Deep Learning
+- Build real-world AI applications
+- Contribute to open-source projects
+
+## 📫 Contact
+
+- GitHub: [@Alihansagat](https://github.com/Alihansagat)
+- Telegram: @sagatooov
+  
