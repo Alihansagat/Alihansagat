@@ -1,6 +1,6 @@
 # Hi, I'm Alikhan 👋
 
-### Information Systems Student @ KBTU | Software Engineering • Backend • AI/ML
+### Information Systems Student @ KBTU 
 
 I'm an **Information Systems student at KBTU** passionate about building software, understanding how systems work, and turning ideas into practical projects.
 
