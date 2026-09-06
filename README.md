@@ -114,10 +114,19 @@ My learning repository for developing a strong foundation in Deep Learning and g
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alihansagat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihansagat&layout=compact&hide_border=true&langs_count=8" height="170" /> </p>
-
+<p align="center">
+  <a href="https://github.com/Alihansagat?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Alihansagat?tab=stars">
+    <img src="https://img.shields.io/github/stars/Alihansagat?style=for-the-badge&logo=github&label=Stars" />
+  </a>
+  <a href="https://github.com/Alihansagat">
+    <img src="https://img.shields.io/github/followers/Alihansagat?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+</p>
 ---
 
 ## 📚 Currently Learning
